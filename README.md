@@ -1,4 +1,5 @@
 Data Modeling Project
+
 This repository contains a data model focusing on key database design concepts such as entity relationships, primary keys, foreign keys, and various types of relationships between entities.
 
 Project Overview
